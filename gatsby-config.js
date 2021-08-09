@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Wheel Defined`,
     description: `Ride your dreams.`,
-    author: `@piducancore`,
+    author: `@patrik`,
   },
   plugins: [
     `gatsby-plugin-theme-ui`,
