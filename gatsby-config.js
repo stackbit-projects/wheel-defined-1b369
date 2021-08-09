@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Wheel Defined`,
-    description: `This is an easy way to start developing fullstack GraphQL apps with Gatsby and Apollo Server (powered by Netlify functions).`,
+    description: `Ride your dreams.`,
     author: `@piducancore`,
   },
   plugins: [
