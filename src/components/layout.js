@@ -49,7 +49,7 @@ const Layout = ({ children }) => {
             flex: 1,
           }}
         >
-          Welcome to {title}
+          You Are {title}
         </Styled.h1>
 
         <Toggle />
