@@ -65,7 +65,7 @@ const Layout = ({ children }) => {
         <Styled.p>
           © {new Date().getFullYear()}, Built with
           {` `}
-          <Styled.a href="https://www.gatsbyjs.org">Gatsby</Styled.a>
+          <Styled.a href="https://www.gatsbyjs.org">Wheel Defined</Styled.a>
         </Styled.p>
       </footer>
     </Styled.root>
