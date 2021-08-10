@@ -63,8 +63,7 @@ const Layout = ({ children }) => {
       </main>
       <footer>
         <Styled.p>
-          © {new Date().getFullYear()}, Built with
-          {` `}
+          © {new Date().getFullYear()},
           <Styled.a href="https://www.wheeldefined.com">Wheel Defined</Styled.a>
         </Styled.p>
       </footer>
